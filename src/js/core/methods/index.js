@@ -35,11 +35,6 @@ import getDeviceState from './GetDeviceState';
 import getFeatures from './GetFeatures';
 import getPublicKey from './GetPublicKey';
 import getSettings from './GetSettings';
-import liskGetAddress from './LiskGetAddress';
-import liskGetPublicKey from './LiskGetPublicKey';
-import liskSignMessage from './LiskSignMessage';
-import liskVerifyMessage from './LiskVerifyMessage';
-import liskSignTransaction from './LiskSignTransaction';
 import loadDevice from './LoadDevice';
 import pushTransaction from './PushTransaction';
 import requestLogin from './RequestLogin';
@@ -102,11 +97,6 @@ const METHODS = {
     getFeatures,
     getPublicKey,
     getSettings,
-    liskGetAddress,
-    liskGetPublicKey,
-    liskSignMessage,
-    liskSignTransaction,
-    liskVerifyMessage,
     loadDevice,
     pushTransaction,
     requestLogin,
