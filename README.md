@@ -1,8 +1,6 @@
 #https://github.com/21-twenty-one/21/security/advisories
 # Trezor Connect API version 8.1.30-beta.2
-[![Build Status](https://github.com/trezor/connect/actions/workflows/tests.yml/badge.svg)](https://github.com/trezor/connect/actions/workflows/tests.yml)
-[![NPM](https://img.shields.io/npm/v/trezor-connect.svg)](https://www.npmjs.org/package/trezor-connect)
-[![Known Vulnerabilities](https://snyk.io/test/github/trezor/connect/badge.svg?targetFile=package.json)](https://snyk.io/test/github/trezor/connect?targetFile=package.json)
+
 
 Trezor Connect is a platform for easy integration of Trezor into 3rd party services. It provides API with functionality to access public keys, sign transactions and authenticate users. User interface is presented in a secure popup window served from `https://connect.trezor.io/8/popup.html`
 
