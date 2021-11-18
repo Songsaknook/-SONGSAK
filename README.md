@@ -1,4 +1,4 @@
-#https://github.com/21-twenty-one/21/security/advisories
+
 # Trezor Connect API version 8.1.30-beta.2
 
 
@@ -19,3 +19,5 @@ With regards to this repo - All updates should go to current version branch, the
 
 ## Tests
 For integration testing against trezord and emulator refer to [this document](./tests/README.md).
+
+
